@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IqxPYs/C6VvQzTb3el59jAG6w5gJogOCC4LGw4TI06f9CSMJKn7Bb/WzWnq8w7Z0FZWhkCjl2tMTaA8iZDnHGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Asma\\Learning\\EmptyLambda\\HelloWorldServerlessLambda\\src\\HelloWorldServerlessLambda\\HelloWorldServerlessLambda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asmim\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.4.0\\amazon.lambda.apigatewayevents.2.4.0.nupkg.sha512",
+    "C:\\Users\\asmim\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\asmim\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.2.0\\amazon.lambda.serialization.systemtextjson.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

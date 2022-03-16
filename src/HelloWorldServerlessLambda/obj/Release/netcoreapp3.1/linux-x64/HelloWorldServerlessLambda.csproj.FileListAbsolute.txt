@@ -1,0 +1,16 @@
+C:\Asma\Learning\EmptyLambda\HelloWorldServerlessLambda\src\HelloWorldServerlessLambda\obj\Release\netcoreapp3.1\linux-x64\HelloWorldServerlessLambda.csprojAssemblyReference.cache
+C:\Asma\Learning\EmptyLambda\HelloWorldServerlessLambda\src\HelloWorldServerlessLambda\obj\Release\netcoreapp3.1\linux-x64\HelloWorldServerlessLambda.csproj.CoreCompileInputs.cache
+C:\Asma\Learning\EmptyLambda\HelloWorldServerlessLambda\src\HelloWorldServerlessLambda\obj\Release\netcoreapp3.1\linux-x64\HelloWorldServerlessLambda.AssemblyInfoInputs.cache
+C:\Asma\Learning\EmptyLambda\HelloWorldServerlessLambda\src\HelloWorldServerlessLambda\obj\Release\netcoreapp3.1\linux-x64\HelloWorldServerlessLambda.AssemblyInfo.cs
+C:\Asma\Learning\EmptyLambda\HelloWorldServerlessLambda\src\HelloWorldServerlessLambda\bin\Release\netcoreapp3.1\linux-x64\HelloWorldServerlessLambda.deps.json
+C:\Asma\Learning\EmptyLambda\HelloWorldServerlessLambda\src\HelloWorldServerlessLambda\bin\Release\netcoreapp3.1\linux-x64\HelloWorldServerlessLambda.runtimeconfig.json
+C:\Asma\Learning\EmptyLambda\HelloWorldServerlessLambda\src\HelloWorldServerlessLambda\bin\Release\netcoreapp3.1\linux-x64\HelloWorldServerlessLambda.runtimeconfig.dev.json
+C:\Asma\Learning\EmptyLambda\HelloWorldServerlessLambda\src\HelloWorldServerlessLambda\bin\Release\netcoreapp3.1\linux-x64\HelloWorldServerlessLambda.dll
+C:\Asma\Learning\EmptyLambda\HelloWorldServerlessLambda\src\HelloWorldServerlessLambda\bin\Release\netcoreapp3.1\linux-x64\HelloWorldServerlessLambda.pdb
+C:\Asma\Learning\EmptyLambda\HelloWorldServerlessLambda\src\HelloWorldServerlessLambda\bin\Release\netcoreapp3.1\linux-x64\Amazon.Lambda.APIGatewayEvents.dll
+C:\Asma\Learning\EmptyLambda\HelloWorldServerlessLambda\src\HelloWorldServerlessLambda\bin\Release\netcoreapp3.1\linux-x64\Amazon.Lambda.Core.dll
+C:\Asma\Learning\EmptyLambda\HelloWorldServerlessLambda\src\HelloWorldServerlessLambda\bin\Release\netcoreapp3.1\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Asma\Learning\EmptyLambda\HelloWorldServerlessLambda\src\HelloWorldServerlessLambda\obj\Release\netcoreapp3.1\linux-x64\HelloWorldServerlessLambda.csproj.CopyComplete
+C:\Asma\Learning\EmptyLambda\HelloWorldServerlessLambda\src\HelloWorldServerlessLambda\obj\Release\netcoreapp3.1\linux-x64\HelloWorldServerlessLambda.dll
+C:\Asma\Learning\EmptyLambda\HelloWorldServerlessLambda\src\HelloWorldServerlessLambda\obj\Release\netcoreapp3.1\linux-x64\HelloWorldServerlessLambda.pdb
+C:\Asma\Learning\EmptyLambda\HelloWorldServerlessLambda\src\HelloWorldServerlessLambda\obj\Release\netcoreapp3.1\linux-x64\HelloWorldServerlessLambda.genruntimeconfig.cache

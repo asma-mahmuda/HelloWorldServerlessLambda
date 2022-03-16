@@ -1,0 +1,22 @@
+{
+  "AWSTemplateFormatVersion": "2010-09-09",
+  "Transform": "AWS::Serverless-2016-10-31",
+  "Description": "An AWS Serverless Application.",
+  "Resources": {
+    "Get": {
+      "Type": "AWS::Serverless::Function",
+      "Properties": {
+        "FunctionName": "HelloWorldServerlessLambda",
+        "Handler": "HelloWorldServerlessLambda::HelloWorldServerlessLambda.Function::FunctionHandler",
+        "Runtime": "dotnet6",
+        "CodeUri": "",
+        "MemorySize": 256,
+        "Timeout": 30,
+        "Role": "arn:aws:iam::113338610819:role/service-role/asmaLambdaRole",
+        "Policies": [
+          "AWSLambdaBasicExecutionRole"
+        ]
+      }
+    }
+  }
+}
